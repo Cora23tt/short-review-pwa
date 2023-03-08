@@ -31,3 +31,9 @@ PWA совмещает в себе свойства нативного прил�
 Интернет-магазины активно используют PWA
 ### Starbucks
 <img src="./pic4.png" width=1000>
+Попробуйте открыть и установить через браузер (https://app.starbucks.com)
+
+### Konga (online shop)
+<img src="./pic5.png" width=1000>
+Shop Online for Electronics, Phones, Computers, Accessories, Fashion, Shoes, Household Equipments, Wines, Babies, Toys, Furnitures...
+Попробуйте (https://www.konga.com/)
